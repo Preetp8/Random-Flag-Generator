@@ -5,13 +5,13 @@
 # Screenshots
 _Maritime Number Flags_
 
-[flags-screenshot]
+![flags-screenshot]
 
 
 
 _Program_
 
-[program-screenshot]
+![program-screenshot]
 
 
 
@@ -24,7 +24,6 @@ Then in the correct directory run:
 python3 FlagGenerator.py
 ```
 
-<!-- Screenshots --!>
 
 [flags-screenshot]: images/flags.png
 [program-screenshot]: images/program.png
