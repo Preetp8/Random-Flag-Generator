@@ -1,13 +1,18 @@
 # Random Flag Generator
- Python program that draws random NATO maritime signal flags.
+ Python program that draws random NATO maritime signal flags using turtle graphics.
 
 
 # Screenshots
+_Maritime Number Flags_
 
-Maritime Number Flags
+[flags-screenshot]
 
 
-Program
+
+_Program_
+
+[program-screenshot]
+
 
 
 # How to run
@@ -16,5 +21,10 @@ In order to run this program be sure that python 3 is installed.
 
 Then in the correct directory run:
 ```
-python3 name.py
+python3 FlagGenerator.py
 ```
+
+<!-- Screenshots --!>
+
+[flags-screenshot]: images/flags.png
+[program-screenshot]: images/program.png
